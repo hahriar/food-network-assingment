@@ -88,7 +88,7 @@ div ul{
     text-align: justify;
 }
 .blog_section {
-    background-color: #e5e5e5;
+    background-color: white;
     height: 780px;
   }
   .section_title {
@@ -111,11 +111,11 @@ div ul{
     margin-top: 50px;
   }
   .blog_details {
-    width: 395px;
-    background: #fff;
+    width: 380px;
+    box-shadow:  0px 0px 26px -10px gray;
     margin: 0px 25px;
-    padding: 21px;
-    border-radius: 10px;
+    padding: 15px;
+    border-radius: 30px;
   }
   .blog_details h2 {
     margin: 10px 0;
