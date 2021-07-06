@@ -13,7 +13,7 @@
     background-image: url(/images/shapes/7.png);
     background-repeat: no-repeat;
 }
-#section-blog_section{
+.section-blog_section{
     margin-top: 80px;
     box-shadow: 10px;
 }
@@ -77,9 +77,10 @@ div ul{
 .button{
     text-decoration: none;
     padding: 15px 30px ;
-    background-image: linear-gradient(180deg,rgba(255, 0, 0, 0.87) , rgba(255, 255, 0, 0.472));
+    background-image: linear-gradient(to right, orange , tomato);
     color:whitesmoke;
-    border-radius: 20px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 40px -13px ;
 }
 .About{
     margin-left: 170px;
@@ -93,7 +94,7 @@ div ul{
   }
   .section_title {
     text-align: center;
-    margin-top: 150px;
+    margin-top: 100px;
   }
   .section_title h1 {
     color: #252525;
